@@ -4,6 +4,12 @@ body
     text-align: center;
     font-family: courier;
 }
+#cabecera
+{
+    background: #33F;
+    color: white;
+    margin: o;
+}
 #container
 {
     width: 70%;
