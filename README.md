@@ -1,2 +1,3 @@
-# blog-
-este es un blog de prueba que se realiza para el curos de git y github 
+#curso git y github 
+
+>este es el repositorio que nosotros estamos utilizando para  poder realizar nuestro curso de git y github donde realizamos barios archivos como este 
